@@ -49,4 +49,4 @@ function onClickLoginBtn(event){
       //h1을 보여준다.
       displayGreeting(lsUserName);
   }
-  
+}
